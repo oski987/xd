@@ -1,0 +1,39 @@
+{
+  "squadName" : "League of Super Hero",
+  "homeTown" : "Olimpo",
+  "formed" : 157094,
+  "secretBase" : "LUNA77",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "PEGASUS",
+      "age" : 18,
+      "secretIdentity" : "Seiya",
+      "powers" : [
+        "Meteoro de Pegaso",
+        "Super fuerza",
+        "Armadura divina"
+      ]
+    },
+    {
+      "name" : "FENIX",
+      "age" : 25,
+      "secretIdentity" : "Ikki",
+      "powers" : [
+        "Llamas",
+        "Renacer",
+        "Armadura divina"
+      ]
+    },
+    {
+      "name" : "DRAAGON",
+      "age" : 28,
+      "secretIdentity" : "Shiryu",
+      "powers" : [
+        "Super Fuerza",
+        "Velocidad",
+        "Armadura Divina",
+      ]
+    }
+  ]
+}
